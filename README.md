@@ -8,20 +8,12 @@ GoodsKG, a knowledge graph that contains the product-product hierarchy producer 
 
 # 数据介绍
 1, 基本数据内容
-![image](https://github.com/liuhuanyong/GoodsKG/blob/master/image/info.png)
+![image](https://github.com/SmartCommunitySZ/GoodsKG/blob/master/image/info.png)
 2, is-a概念上下位关系
-![image](https://github.com/liuhuanyong/GoodsKG/blob/master/image/is_a.png)
+![image](https://github.com/SmartCommunitySZ/GoodsKG/blob/master/image/is_a.png)
 3, sale销售关系
-![image](https://github.com/liuhuanyong/GoodsKG/blob/master/image/sale.png)
+![image](https://github.com/SmartCommunitySZ/GoodsKG/blob/master/image/sale.png)
 4, 混合关联关系
-![image](https://github.com/liuhuanyong/GoodsKG/blob/master/image/mix.png)
-
-If any question about the project or me ,see https://liuhuanyong.github.io/
-
-# to be continued..
+![image](https://github.com/SmartCommunitySZ/GoodsKG/blob/master/image/mix.png)
 
 
-如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：    
-1、我的github项目介绍：https://liuhuanyong.github.io  
-2、我的csdn博客：https://blog.csdn.net/lhy2014  
-3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
